@@ -1,0 +1,2 @@
+Prints a histogram, vertically or horizontally, that represents the frequency of word lengths of the input.
+Must use [ctrl] + D to input EOF and make histograms appear.
